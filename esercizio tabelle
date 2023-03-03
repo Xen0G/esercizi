@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chi è Skrillex</title>
+<meta name="esercizio" content="elenchi">
+</head>
+<body>
+    <h1 align="center">SKRILLEX</h1>
+    <h2>Chi è Skrillex?</h2>
+<table width="1400px" style="border: 1px solid">
+    <tr ><td width="400px" style="border: 1px solid"><p><strong>per alcuni uno dei migliori dj dubstep/eletronica commerciale dei tempi per i giovani invece per altri l'infanzia con cui sono cresciuti </strong></p></td><td style="border: 1px solid"><img src="skrillex1.jpg" width="100%" height="400"></img></td></tr>
+    <tr ><td width="400px" style="border: 1px solid"><p><strong>primo album in cui skrillex ha potuto farsi riconoscere nel mondo della musica </strong></p></td><td style="border: 1px solid"><iframe width="100%" height="400px" src="https://www.youtube.com/embed/TYYyMu3pzL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td></tr>
+</table>
+
+</body>
+
+
+
+
+
+
+    
+    </html>
