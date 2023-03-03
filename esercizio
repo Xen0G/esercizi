@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>esercizio</title>
+<style>
+    h1 {color: magenta;background-color: yellow;
+        height: 28pt;}
+        
+    h2 {color: darkgreen;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+    
+ </style>  
+    </head>
+    <body>
+        <h1>primo</h1>
+        <p align="center">Secondo</p>
+        <h2>Titolo</h2>
+
+
+    </body>
+    </html>
